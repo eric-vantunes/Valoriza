@@ -29,7 +29,7 @@ Beekeeper - Gerenciador de Banco de Dados e editor de código SQL.
 Insomnia - É um programa que testa as requisições de uma API(GET, POST, PUT, DELETE, PATCH, etc).
 Execução white_check_mark
 # Clone este repositório
-$ git clone https://github.com/eric-vantunes/NLW-06
+$ git clone https://github.com/eric-vantunes/Valoriza
 
 # Executar aplicação
 $ yarn dev
